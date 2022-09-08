@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+
+body{
+    margin: 0;
+}
+
+
+#scoreBox{
+    position: absolute;
+    top: 9px;
+    right: 200px;
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'Combo', cursive;
+}
+
+.container{
+    height: 100vh;
+    background: url("./wp2409705-snake-game-wallpapers.jpg");
+    background-size: 100vw 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#board{
+    border: 2px solid black;
+    height: 90%;
+    width: 45%;
+    background: linear-gradient(green,yellow);
+    display: grid;
+    grid-template-columns: repeat(18,1fr);
+    grid-template-rows: repeat(18,1fr);
+
+}
+
+
+.head{
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: red;
+    transform: scale(1.02);
+    margin: 1px;
+
+}
+
+
+.body{
+    border: 2px solid black;
+    margin: 1px;
+
+    border-radius: 50%;
+
+    background-color: blue;
+}
+
+
+.food{
+    border: 2px solid black;
+
+    border-radius: 50%;
+
+    background-color: purple;
+}
