@@ -4,4 +4,4 @@ https://dhruvsharma19.github.io/Snake-Game/
 
 
 
-![Web capture_2-6-2023_11407_dhruvsharma19 github io](https://github.com/DhruvSharma19/Snake-Game/assets/112254552/73991c51-5ec4-412e-8a24-4ec265111ab5)
+![Web capture_2-6-2023_115517_dhruvsharma19 github io](https://github.com/DhruvSharma19/Snake-Game/assets/112254552/0bde4c7a-a2c0-4934-a682-fa81c40a3830)
